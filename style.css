@@ -1,0 +1,59 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgba(20, 13, 5, 0.857);
+   border-radius: 40px;
+   margin: 15px;
+    overflow: hidden;
+}
+.navbar a:hover{
+    background-color:whitesmoke;
+}
+
+.navbar li{
+    list-style-type: none;
+    float:right ;
+    padding: 15px;
+    font-size: 30px;
+}
+.navbar a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+body{
+    background-color:wheat;
+}
+
+.footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: rgb(247, 242, 242);
+        text-align: center;  
+        font-size: large;    
+      }
+.logo{
+    height: 100px;
+    background:none;
+}
+img{
+    height: 400px;
+    display: flex;
+}
+
+
+.Det{
+    margin-top: 20px;
+}
+
+
+ 
+
+
+
